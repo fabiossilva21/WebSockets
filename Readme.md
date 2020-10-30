@@ -1,4 +1,4 @@
-# Sha1Algorithm
+# WebSockets
 This library implements a simple WebSocket server as described in [RFC6455](https://tools.ietf.org/html/rfc6455)
 
 ## Usage
